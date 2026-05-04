@@ -44,7 +44,7 @@ Deno.serve(async (req) => {
           Ton outil DropDigital est prêt. Voici ton lien d'accès exclusif :
         </td></tr>
         <tr><td align="center" style="padding-bottom:32px;">
-          <a href="https://dropdigital.com/outil" style="display:inline-block;background:linear-gradient(135deg,#C9A84C,#E8C96A);color:#060608;padding:14px 40px;border-radius:4px;font-size:14px;font-weight:700;letter-spacing:2px;text-transform:uppercase;text-decoration:none;">⚡ ACCÉDER À L'OUTIL</a>
+          <a href="https://carrousel-ia-generator.lovable.app" style="display:inline-block;background:linear-gradient(135deg,#C9A84C,#E8C96A);color:#060608;padding:14px 40px;border-radius:4px;font-size:14px;font-weight:700;letter-spacing:2px;text-transform:uppercase;text-decoration:none;">⚡ ACCÉDER À L'OUTIL</a>
         </td></tr>
         <tr><td style="color:#B0A898;font-size:13px;line-height:1.6;border-top:1px solid rgba(201,168,76,0.1);padding-top:24px;">
           Profite bien. — DropDigital
